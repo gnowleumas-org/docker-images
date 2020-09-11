@@ -1,5 +1,5 @@
 # Official Sitecore images on scr.sitecore.com
-This document provides a list of the images and tags available on the official Sitecore container registry hosted at scr.sitecore.com12. 
+This document provides a list of the images and tags available on the official Sitecore container registry hosted at scr.sitecore.com123. 
 The Sitecore container images are structured in namespaces according to product line:  
 - **[sxp](#sxp):** Contains all *Sitecore Experience Platform (SXP)* image repositories. Primary platform repositories are found at the root.  
 - **[sxp/nonproduction](#sxp/nonproduction):** Images for SXP supporting roles intended for development and testing. No production support is provided for images labeled as nonproduction. 
